@@ -13,7 +13,7 @@ int main()
     // equivalent to:
     // counter = counter + 1;
     // result = counter + 10;
-    // result is 21;
+    // result is 21
 
     // ++ postfix performs after the counter is operated
     result = counter++ + 10;
